@@ -1,0 +1,17 @@
+---
+- !ruby/object:Contact
+  phone_numbers:
+  - !ruby/object:PhoneNumber
+    kind: home
+    number: 781-331-1221
+  addresses:
+  - !ruby/object:Address
+    kind: home
+    street_1: 53 albion st
+    street_2: apt 1
+    city: Somerville
+    state: Ma
+    postal_code: '02143'
+  first_name: Mike
+  middle_name: S
+  last_name: Caveney
